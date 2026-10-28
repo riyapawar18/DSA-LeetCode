@@ -1,8 +1,8 @@
 # DSA-LeetCode
 
-C++ solutions to LeetCode problems, organized one folder per problem. Each folder contains the problem statement/notes (`README.md`) and a class-based solution (`*.cpp`).
+Solutions to LeetCode problems in C++, Java, and SQL, organized one folder per problem. Each folder contains the problem statement/notes (`README.md`) and a class-based solution (`*.cpp`, `*.java`, or `*.sql`).
 
-**89 solutions published** here as part of **200+ LeetCode problems solved** in C++.
+**94 solutions published** here — 89 C++, 4 Java, 1 SQL — as part of **164 problems solved** on [my LeetCode profile](https://leetcode.com/u/riyapawar18/) (102 C++, 54 SQL, 8 Java).
 
 ## Structure
 
